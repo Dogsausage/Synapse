@@ -1,51 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;Developer+%7C+Content+CyberSecurity+%7C+Instructor;Building+in+the+AI+Era+🚀;Fackbook%2B+YouTube+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;Cyber+Security+Researcher+%7C+CTF+Player;AI+Workflow+Integrator+%7C+Developer;Hacking+the+Future+🚀" />
 </p>
 
-<h3 align="center">🚀 Code • Teach • Scale • Repeat</h3>
+<h3 align="center">🛠️ Scan • Exploit • Patch • Repeat</h3>
 
 ---
 
 ## ⚡ About Me
 - 🇹🇭 Based in Bangkok  
-- 🎥 0+ YouTube Creator  
-- 💻 CYBER SUCUERITY & DEV  
-- 🧠 Focus: CTF • C++ • JAVA • AI Workflow 
-- 🔥 Goal: Build scalable income with tech & content  
-<img src="https://komarev.com/ghpvc/?username=ohmiler&label=Profile%20Views&color=0e75b6&style=flat" />
+- 🕳️ **Status:** Deep diving into vulnerable systems & capturing flags.
+- 💻 **Focus:** Web Penetration Testing | Binary Exploitation | Reverse Engineering
+- 🧠 **Tech & AI:** Leveraging AI Workflows for automated scanning & fast development.
+- 🔥 **Goal:** Pwning hard boxes & building secure infrastructure.
+<img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=00F7FF&style=flat" />
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,linux,bash,docker,git,js,ts,react,nextjs" />
 </p>
 
 ---
 
 ## ☕ Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/milerdev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <a href="https://github.com/Dogsausage" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🔥 Philosophy
-> Build skills that make money.  
-> Share knowledge that changes lives.  
-
----
+## 💀 Philosophy
+> *The quieter you become, the more you are able to hear.* > *Understand the defense by mastering the offense.* ---
 
 ## ⚡ Mindset
-> Don’t chase jobs. Build leverage.  
-> Don’t wait for opportunities. Create them.  
+> Try Harder. If it's secure today, it's outdated tomorrow.  
+> Code to build, hack to understand, AI to accelerate.  
 
 ---
 
 ## 🚀 In The AI Era
-> AI won't replace developers.  
-> Developers who use AI will replace those who don’t.
-
----
+> AI won't replace cybersecurity experts.  
+> But professionals using AI will outpace those who don’t.
