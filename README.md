@@ -8,10 +8,10 @@
 
 ## ⚡ About Me
 - 🇹🇭 Based in Bangkok  
-- 🕳️ **Status:** Deep diving into vulnerable systems & capturing flags.
-- 💻 **Focus:** Web Penetration Testing | Binary Exploitation | Reverse Engineering
-- 🧠 **Tech & AI:** Leveraging AI Workflows for automated scanning & fast development.
-- 🔥 **Goal:** Pwning hard boxes & building secure infrastructure.
+- 🕳️ **Status :** Deep diving into vulnerable systems & capturing flags.
+- 💻 **Focus :** Web Penetration Testing | Binary Exploitation | Reverse Engineering
+- 🧠 **Tech & AI :** Leveraging AI Workflows for automated scanning & fast development.
+- 🔥 **Goal :** Pwning hard boxes & building secure infrastructure.
 <img src="https://komarev.com/ghpvc/?username=Dogsausage&label=Profile%20Views&color=00F7FF&style=flat" />
 
 ---
