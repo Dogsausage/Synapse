@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Dogsausage;💻+Computer+Science+Student;🛡️+Cyber+Security+Enthusiast+%7C+🎮+CTF+Player;🤖+AI+Workflow+Integrator+%7C+⚡+Developer;🚀+Hacking+the+Future" />
 </p>
 
-<h3 align="center">⚡ Learn・CyberSec・Tech-AI・Code ⚡</h3>
+<h3 align="center">⚡ Learn・Cyber・AI・Code ⚡</h3>
 
 ---
 
