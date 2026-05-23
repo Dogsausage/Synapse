@@ -17,7 +17,7 @@
 
 ## 📡 Status
 - 🔍 **Current Focus :** Computer Science fundamentals & practical web penetration testing
-- 🎮 **CTF Activity:** Competing in regional CTFs to sharpen real-world offensive skills
+- 🎮 **CTF Activity :** Competing in regional CTFs to sharpen real-world offensive skills
 - 🛠️ **Upcoming Projects :** Building a cybersecurity educational platform & web-based resource hub
 - 📚 **Learning :** Data Structures & Algorithms, Cryptography & Network Security Foundations
 
