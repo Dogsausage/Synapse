@@ -7,7 +7,7 @@
 ---
 
 ## 🧾 About Me
-- Thailand Based in Maha Sarakham, Thailand
+- 🇹🇭 Based in Maha Sarakham, Thailand
 - 🏫 **Computer Science Student @ Mahasarakham University**
 - 🎯 **Focus :** Offensive Security, Penetration Testing, Wargames & Nmap Scanning
 - 🤖 **Tech & AI :** Leveraging AI workflows for automated scanning & rapid development
