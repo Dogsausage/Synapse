@@ -43,7 +43,7 @@
 
 ---
 
-## 🔑 Core Philosophy & Mindset
+## ☯︎ Core Philosophy & Mindset
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&color=FFFFFF&vCenter=true&width=950&height=110&lines=%F0%9F%91%81%EF%B8%8F+%E2%80%9CThe+quieter+you+become%2C+the+more+you+are+able+to+hear.%E2%80%9D;%F0%9F%9B%B8+Understand+the+defense+by+mastering+the+offense.;%F0%9F%94%A5+%E2%80%9CTry+Harder.+If+it%E2%80%99s+secure+today%2C+it%E2%80%99s+outdated+tomorrow.%E2%80%9D;%E2%9A%A1+Code+to+build%2C+hack+to+understand%2C+AI+to+accelerate." alt="Philosophy" />
 </p>
