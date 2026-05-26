@@ -11,19 +11,18 @@
 ---
 
 ## 🧾 About Me
-- 🇹🇭 Based in Maha Sarakham, Thailand
-- 🏫 **Computer Science Student @ Mahasarakham University**
-- 🎯 **Focus :** Offensive Security, Penetration Testing, Wargames & Nmap Scanning
-- 🤖 **Tech & AI :** Leveraging AI workflows for automated scanning & rapid development
-- 🔥 **Goal :** Master end-to-end cybersecurity operations and pursue global graduate research in the US or China, focusing on hardware-level security, secure chip design & firmware auditing
+- 🏫 **CS Student @ Mahasarakham University**
+- 🎯 **Focus :** Offensive Security, Malware Analysis (Ransomware / File Infector) & Linux Administration (Kali)
+- 🤖 **Tech & AI :** Integrating AI for secure coding, code auditing & rapid workflow
+- 🚀 **Goal :** Master end-to-end cyber ops, hardware security & firmware auditing
 
 ---
 
 ## 📡 Status
-- 🔍 **Current Focus :** Computer Science fundamentals & practical web penetration testing
-- 🎮 **CTF Activity :** Competing in regional CTFs to sharpen real-world offensive skills
-- 🛠️ **Upcoming Projects :** Building a cybersecurity educational platform & web-based resource hub
-- 📚 **Learning :** Data Structures & Algorithms, Cryptography & Network Security Foundations
+- 🔍 **Current :** Linux Networking, Core CS Fundamentals & Web Penetration Testing
+- 🎮 **CTF Activity :** Active competitor in regional CTFs, sharpening practical offensive skills
+- 🛠️ **Projects :** Building a cybersecurity educational platform & web-based resource hub
+- 📚 **Learning :** Data Structures & Algorithms, Cryptography & Network Security
 
 ---
 
