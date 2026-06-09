@@ -27,7 +27,11 @@
 
 ## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,linux,bash,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,linux,kali,bash,docker,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </p>
 
 ---
